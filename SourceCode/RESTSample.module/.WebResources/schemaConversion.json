@@ -1,5 +1,0 @@
-{"records": [{
-    "jsonSchemaLocation": "/RESTSample.module/Service Descriptors/restsample.module.Process-customer.json",
-    "conversionType": "linked",
-    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1627325968559"
-}]}
