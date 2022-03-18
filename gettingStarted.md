@@ -18,4 +18,13 @@ After Completing the Installation move to next section.
 
 ### Use available samples
 Let's begin by importing samples project from repo.
-### Next step: [Importing a sample project](import_project.md)
+# Open TIBCO BusinessStudio
+We have access to BWCE desgin-studio with it opened. If not, You can do so by navigating to location <TIBCO-HOME>/studio/4.0/eclipse/TIBCOBusinessStudio271 (don't open the .ini file).
+Once opened > welcome page >  goto workbench.
+
+## Importing Existing Samples to Workspace.
+ You can download existing samples from following repo sub-directory
+ /Samples/<projectname>.zip
+
+### Next step: [Importing a sample restechoproject](import_restechoproject.md)
+### Next step: [Importing a sample restechoproject](import_restechojdbcproject.md)

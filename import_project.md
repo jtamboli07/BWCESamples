@@ -1,10 +1,3 @@
-# Open TIBCO BusinessStudio
-We have access to BWCE desgin-studio with it opened. If not, You can do so by navigating to location <TIBCO-HOME>/studio/4.0/eclipse/TIBCOBusinessStudio271 (don't open the .ini file).
-Once opened > welcome page >  goto workbench.
-
-## Importing Existing Samples to Workspace.
- You can download existing samples from following repo sub-directory
- /Samples/<projectname>.zip
 
 ## Import restechoprocess.zip
 You can choose to import Samples/restechoprocess.zip. This project contains a post method that echos back the request being sent to post api.
