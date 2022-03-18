@@ -18,4 +18,4 @@ After Completing the Installation move to next section.
 
 ### Use available samples
 Let's begin by importing samples project from repo.
-### Next step: [Importing a sample REST project](import_Project.md)
+### Next step: [Importing a sample project](import_project.md)
