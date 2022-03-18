@@ -31,15 +31,17 @@ MAINTAINER Tibco
 ADD MyRESTContainerSamples_1.0.0.ear /EXPOSE 8080
 
 Type in below command on the docker terminal to generate the application image.
-docker build -t myrescontainersample:100 . You will see following message in your docker terminal
+docker build -t myrescontainersample:100 .
+
+You will see following message in your docker terminal
 
 ![import_restecho](images/importrestecho3.png)
 
-####Execute the following command on a docker terminal to run the application image:
+### Execute the following command on a docker terminal to run the application image:
 docker run -i  -p 8080:8080 myrescontainersample:100
 
 You will see following logs in your docker terminal
 ![import_restecho](images/importrestecho4.png)
 
-Also Test it out using a post man , once successful you will observer following logs in your terminal in addition to testing successful response on postman request.
+Also Test it out using a post man , once successful you will observe following logs in your terminal in addition to testing successful response on postman request.
 2022-03-16T19:33:49,179 INFO  [bwEngThread:In-Memory Process Worker-1] c.t.b.p.g.L.M.module.Log - hello
