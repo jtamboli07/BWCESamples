@@ -38,3 +38,12 @@ Type in below command on the docker terminal to generate the application image.
 docker build -t myrescontainersample:100 . You will see following message in your docker terminal
 
 <<image in here>>
+
+####Execute the following command on a docker terminal to run the application image:
+docker run -i  -p 8080:8080 myrescontainersample:100
+
+You will see following logs in your docker terminal
+<image in here>
+
+Also Test it out using a post man , once successful you will observer following logs in your terminal in addition to testing successful response on postman request.
+2022-03-16T19:33:49,179 INFO  [bwEngThread:In-Memory Process Worker-1] c.t.b.p.g.L.M.module.Log - hello
