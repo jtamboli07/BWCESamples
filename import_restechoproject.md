@@ -4,7 +4,7 @@ You can choose to import Samples/restechoprocess.zip. This project contains a po
 
 After Importing the project find and open MyRestEchoProcess.bwp.  You can debug/run the project locally in designer and test it out using a postman . The request and response looks like following :
 
-<<image in here>>
+![import_restecho](images/importrestecho1.png)
 
 ### Generating an Application Archive File
 Follow these steps to generate the .EAR file:
