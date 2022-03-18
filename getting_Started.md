@@ -27,4 +27,4 @@ Once opened > welcome page >  goto workbench.
  /Samples/<projectname>.zip
 
 ### Next step: [Importing a sample restechoproject](import_restechoproject.md)
-### Next step: [Importing a sample restechoproject](import_restechojdbcproject.md)
+### Next step: [Importing a sample restjdbcproject](import_restjdbcproject.md)
