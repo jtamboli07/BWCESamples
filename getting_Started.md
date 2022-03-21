@@ -28,4 +28,4 @@ Once opened > welcome page >  goto workbench.
 
 ### [Importing a sample restechoproject](import_restechoproject.md)
 ### [Importing a sample restjdbcproject](import_restjdbcproject.md)
-### [Importing a sample restkafkaproject](import_restjdbcproject.md)
+### [Importing a sample restkafkaproject](import_restkafkaproject.md)
