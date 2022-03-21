@@ -23,8 +23,9 @@ We have access to BWCE desgin-studio with it opened. If not, You can do so by na
 Once opened > welcome page >  goto workbench.
 
 ## Importing Existing Samples to Workspace.
- You can download existing samples from following repo sub-directory
+ You can choose and download existing samples from following repo sub-directory
  /Samples/<projectname>.zip
 
-### Next step: [Importing a sample restechoproject](import_restechoproject.md)
-### Next step: [Importing a sample restjdbcproject](import_restjdbcproject.md)
+### [Importing a sample restechoproject](import_restechoproject.md)
+### [Importing a sample restjdbcproject](import_restjdbcproject.md)
+### [Importing a sample restkafkaproject](import_restjdbcproject.md)
