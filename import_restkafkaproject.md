@@ -1,6 +1,6 @@
 
-## Import restechoprocess.zip
-You can also choose to import /Samples/restjdbc/restjdbcprocess.zip. This project contains a post/get/delete method(s) that perform crud on a database and sends reponse back to those requests.
+## Import restkafkaproject.zip
+You can also choose to import /Samples/restjdbc/restkafkaprocess.zip. This project contains a post/get/delete method(s) that perform crud on a database and sends reponse back to those requests.
 
 After Importing the project find and open MyRestEchoProcess.bwp.  
 ![import_restecho](images/importrestjdbc1.png)
