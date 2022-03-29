@@ -31,7 +31,7 @@ Also make sure the ear file path and name is correct. e.g below
 
 FROM tibco/bwce:271
 MAINTAINER Tibco
-ADD MyRESTJDBCcontainerSamples_1.0.0.ear /
+ADD MyRESTJDBCcontainerSamples_1.0.0.ear / 
 
 
 Type in below command on the docker terminal to generate the application image.
