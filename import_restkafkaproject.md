@@ -15,7 +15,7 @@ You can debug/run the project locally in designer and test it out using a postma
 ### Generating an Application Archive File
 Follow these steps to generate the .EAR file:
 
-Procedure
+Procedure 
 Expand the Package Unit and select Overview.
 In the Overview window select Export Application for Deployment.
 Enter the location of your EAR file.
@@ -31,7 +31,7 @@ Also make sure the ear file path and name is correct. e.g below
 
 FROM tibco/bwce:271
 MAINTAINER Tibco
-ADD MyRESTJDBCcontainerSamples_1.0.0.ear / 
+ADD MyRESTJDBCcontainerSamples_1.0.0.ear /
 
 
 Type in below command on the docker terminal to generate the application image.
