@@ -15,9 +15,9 @@ You can debug/run the project locally in designer and test it out using a postma
 ### Generating an Application Archive File
 Follow these steps to generate the .EAR file:
 
-Procedure 
+Procedure
 Expand the Package Unit and select Overview.
-In the Overview window select Export Application for Deployment.
+In the Overview window select Export Application  for Deployment.
 Enter the location of your EAR file.
 [The ear is also available under /Samples/restjdbc/restjdbcear/MyRESTJDBCcontainerSamples_1.0.0.ear]
 
