@@ -6,7 +6,7 @@ https://edelivery.tibco.com/storefront/eval/tibco-businessworks-container-editio
 
 Select your operating system, accept the license agreement and then individual file download.
 
-You will need to download the TIBCO BusinessWorks Container Edition (v 2.7.1)
+You will have to download the TIBCO BusinessWorks Container Edition (v 2.7.1) or later.
 <image in here>
 
 ### TIBCO BWCE Installation
