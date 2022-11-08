@@ -26,6 +26,6 @@ Once opened > welcome page >  goto workbench.
  You can choose and download existing samples from following repo sub-directory
  /Samples/<projectname>.zip
 
-### [Importing a sample restechoproject](import_restechoproject.md)
-### [Importing a sample restjdbcproject](import_restjdbcproject.md)
-### [Importing a sample restkafkaproject](import_restkafkaproject.md)
+### [Importing & working with a sample restechoproject](import_restechoproject.md)
+### [Importing & working with a sample restjdbcproject](import_restjdbcproject.md)
+### [Importing & working with a sample  restkafkaproject](import_restkafkaproject.md)
