@@ -1,8 +1,8 @@
 
 ## Importing & working with a sample restkafkaproject.zip
-You can also choose to import /Samples/restjdbc/restkafkaprocess.zip. This project contains a post/get/delete method(s) that perform crud on a database and sends reponse back to those requests.
+You can also choose to import /Samples/restjdbc/restkafkaprocess.zip. This project contains a post/get/delete method(s) that perform crud on a database and sends response back to those requests.
 
-After Importing the project find and open MyRestEchoProcess.bwp.  
+After Importing the project find and open MyRestkafkaProcess.bwp.  
 ![import_restecho](images/importrestjdbc1.png)
 
 Once imported you would need to point to an existing sql server instance. I have used a sql server in AWS / You can use it locally too.
